@@ -1,5 +1,5 @@
 name: regbuild
-description: A package for simple and easy building regular expressions.
+description: A package for simple and easy building regular expressions on dart.
 version: 1.0.0
 
 environment:
